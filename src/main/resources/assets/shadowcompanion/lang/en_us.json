@@ -1,0 +1,7 @@
+{
+  "key.categories.shadowcompanion": "Shadow Companion",
+  "key.shadowcompanion.summon":     "Summon / Recall Shadow",
+  "key.shadowcompanion.possess":    "Possess Shadow",
+  "key.shadowcompanion.system":     "Open System UI",
+  "entity.shadowcompanion.shadow_companion": "Shadow Companion"
+}

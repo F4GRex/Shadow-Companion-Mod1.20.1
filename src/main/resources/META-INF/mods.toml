@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="shadowcompanion"
+version="${file.jarVersion}"
+displayName="Shadow Companion"
+description='''
+A dark entity born from your shadow follows you into battle.
+'''
+
+[[dependencies.shadowcompanion]]
+modId="forge"
+mandatory=true
+versionRange="[47.2,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.shadowcompanion]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
