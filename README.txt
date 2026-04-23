@@ -1,1 +1,1 @@
-This mod is currently in developmen. its a companion type mod where you can control your companion, and has a game like system.
+This mod is currently in development. its a companion type mod where you can control your companion, and has a game like system.
